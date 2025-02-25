@@ -1,4 +1,4 @@
-A 512kB ROM cartridge design for the Enterprise computer
+A 512kB RAM expansion design for the Enterprise computer
 ========================================================
 
 This design can be used to add up to 512kB of ROM as well as 512kB of RAM without using up any external connectors of the computer.
